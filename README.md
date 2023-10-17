@@ -8,8 +8,6 @@
     - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Database Integration](#database-integration)
-- [Authentication and Security](#authentication-and-security)
 - [License](#license)
 
 ## Getting Started
@@ -40,11 +38,11 @@ To get the application up and running, follow these steps:
 3. Start the application:
 
     ```bash
-    node task1.js or node task2.js
+    node task1.js or node task2.js or python3 task3.py
 
 
 ### API Documentation
- Detailed API documentation can be found [here](https://documenter.getpostman.com/view/18252587/2s9Y5Ww3G4).
+ Detailed API documentation can be found [here](https://lunar-astronaut-788342.postman.co/workspace/New-Team-Workspace~bc99495e-a6e5-4a07-a96a-db664aa475fb/collection/18252587-7e2d9b3a-539b-46a5-92f6-53b3d1fbb1d6?action=share&creator=18252587).
 
 
 ## License
