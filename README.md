@@ -58,6 +58,7 @@ const userRateLimiter = rateLimit({
 });
 
 app.use(userRateLimiter); // Apply the rate limiter to your routes
+```
 
 ## Packages Used
 
